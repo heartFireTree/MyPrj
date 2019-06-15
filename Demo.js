@@ -1,7 +1,7 @@
  <link href="~/Scripts/handsontable/handsontable.full.min.css" rel="stylesheet" />
  <link href="~/Content/handsontable-extend.css" rel="stylesheet" />
  <link href="~/Scripts/select2/css/select2.min.css" rel="stylesheet" />
- <script src="~/Scripts/handsontable/handsontable.full.min.js"></script>
+ <script src="~/Scripts/handsontable-pro/handsontable.full.min.js"></script>
  <script src="~/Scripts/select2/js/select2.full.js"></script>
  <script src="~/Scripts/handsontable-extension/handsontable-select2-editor.js"></script>
  <script src="~/Scripts/lodash.min.js"></script>
